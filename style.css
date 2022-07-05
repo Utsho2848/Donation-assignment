@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&display=swap');
 
 * {
     margin: 0;
@@ -21,7 +21,7 @@ p {
 }
 
 .banner-area {
-    background-image: url(images/donation2.jpg);
+    background-image: url(images/donation3.jpg);
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
@@ -150,4 +150,19 @@ p {
 
 .update-form input {
     margin-bottom: 5px;
+}
+
+/* updeate area ended */
+footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+}
+
+footer p {
+    color: white;
 }

@@ -137,3 +137,17 @@ p {
 }
 
 /* contact area ended */
+.my-updates {
+    text-align: center;
+}
+
+.update-form {
+    margin: 0 20%;
+    padding: 20px 50px;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.update-form input {
+    margin-bottom: 5px;
+}

@@ -22,6 +22,7 @@ p {
 
 .banner-area {
     background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
 }
@@ -124,3 +125,15 @@ p {
 }
 
 /* plan area ended */
+.contact-area {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.contact-area h2 {
+    margin: 0 20%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid silver;
+}
+
+/* contact area ended */
